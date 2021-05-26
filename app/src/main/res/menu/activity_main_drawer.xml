@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="@string/setting" />
+    </group>
+
+    <item android:title="@string/catalogs"><menu>
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_zooqle"
+                android:icon="@drawable/ic_menu_web"
+                android:title="Search engine 1(english)" />
+
+            <item
+                android:id="@+id/nav_tpb"
+                android:icon="@drawable/ic_menu_web"
+                android:title="Search engine 2(english)" />
+            <item
+                android:id="@+id/nav_bitru"
+                android:icon="@drawable/ic_menu_web"
+                android:title="Search engine 3(russian torrents)" />
+
+
+        </group>
+    </menu></item>
+    <item android:title="@string/PRESS_TO_EXIT"><menu>
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_menu_exit"
+            android:title="Exit" />
+    </menu></item>
+
+</menu>

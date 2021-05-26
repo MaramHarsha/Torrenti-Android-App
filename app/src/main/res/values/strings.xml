@@ -1,0 +1,121 @@
+<resources>
+
+
+
+
+
+
+    <string name="ads_banner_id">ca-app-pub-8877047811357763/5662589015</string>
+    <string name="admob_showIntersitial_ad_unit_id" translatable="false">ca-app-pub-8877047811357763/5919693591</string>
+
+    <string name="app_name" translatable="false">TORRENTI</string>
+    <string name="app_email" translatable="false">maramsaiharsha128@gmail.com</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+
+
+
+
+
+
+    <string name="update_t">Application update is available - do you want to update?</string>
+    <string name="update_d">Check out GitHub for latest version</string>
+    <string name="REFRESH">Refresh</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="ADDED">Added by</string>
+    <string name="REMOVE">Removed</string>
+    <string name="TO_REMOVE">Delete?</string>
+    <string name="NOT_READY">Not ready</string>
+    <string name="YES">Yes</string>
+    <string name="START_DOWNLOAD">Download started</string>
+    <string name="PRESS_TO_EXIT">Click back to exit</string>
+    <string name="EXIT">Log off</string>
+    <string name="SELECT">Select</string>
+    <string name="NO_CONNECT">Internet connection error …</string>
+    <string name="RETRY">Repeat</string>
+    <string name="GENERAL">General</string>
+    <string name="CHECK_UPDATE">Check for Update</string>
+    <string name="FEEDBACK">Feedback</string>
+    <string name="DONATE">Application support</string>
+    <string name="UI">Interface</string>
+    <string name="OTHER">Other</string>
+    <string name="FOR_QUERY">Upon request</string>
+    <string name="NO_FOUND">Nothing found.</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_info">Information</string>
+    <string name="pref_header_settings">Settings</string>
+    <string name="pref_header_web">References</string>
+    <string name="pref_title_catalog_ui">Selection displayed in the catalog</string>
+    <string name="pref_title_ui_category">Category Display</string>
+    <string name="pref_desc_ui_category">Select an option to display categories.</string>
+    <string name="pref_title_start_category">Start catalog</string>
+    <string name="pref_desc_start_category">Select the directory from which the application will start.</string>
+    <string name="pref_desk_fullscreen" translatable="false">Requires application restart</string>
+    <string name="pref_title_auto_update">checking for updates</string>
+    <string name="pref_desc_auto_update">Checking for updates at application launch.</string>
+    <string name="pref_title_exit">Exit button</string>
+    <string name="nav_header_title">Torrenti By Harsha</string>
+    <string name="categories">Categories</string>
+    <string name="sort_by">Sort by</string>
+    <string name="apply">Apply</string>
+    <string name="torrenttitle">Title</string>
+    <string name="torrentdescription">Description</string>
+    <string name="sampleseedersnumber">9999</string>
+    <string name="leechers_number_textview">9999</string>
+    <string name="leechers_sample_textview">9999</string>
+    <string name="pref_title_fullscreen" translatable="false">FullScreen mode</string>
+    <string name="app_version">Version: 1.00</string>
+    <string name="availableonenvato">Available on GitHub</string>
+    <string name="use_the_search_to_get_started" translatable="false">Click the search Icon above to get started</string>
+    <string name="first_torrent_search_app_on_envato" translatable="false">First torrent search app</string>
+    <string name="monetized_torrent_search_app" translatable="false">Monetized torrent search app</string>
+    <string name="catalogs" translatable="false">Search sites</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="sort" translatable="false">Sort</string>
+    <string name="search" translatable="false">Search</string>
+
+
+    <string-array name="pref_list_catalog_ui">
+        <item>Title</item>
+        <item>Description</item>
+        <item>The size</item>
+        <item>Seeds and leeches</item>
+        <item>Torrents</item>
+        <item>Magnets</item>
+    </string-array>
+    <string-array name="pref_values_catalog_ui">
+        <item>title</item>
+        <item>desc</item>
+        <item>size</item>
+        <item>seed leech</item>
+        <item>torrent</item>
+        <item>magnet</item>
+    </string-array>
+
+
+
+    <string-array name="pref_ui_category">
+        <item>Text </item>
+        <item>The icons</item>
+    </string-array>
+    <string-array name="pref_val_ui_category">
+        <item>text</item>
+        <item>icon</item>
+    </string-array>
+
+    <string-array name="pref_list_base_catalog">
+        <item>Zooqle</item>
+        <item>Tpb</item>
+        <item>Bitru</item>
+        <item>Rutor</item>
+        <item>Nnm</item>
+        <!--<item>Fileek</item>-->
+    </string-array>
+
+
+
+
+
+</resources>

@@ -1,0 +1,31 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="Rutor"
+        android:key="rutor_furl"
+        android:visibility="gone"
+        android:defaultValue="http://new-rutor.org"/>
+    <EditTextPreference
+        android:title="
+        Zooqle"
+        android:key="zooqle_furl"
+        android:defaultValue="https://zooqle.com"/>
+    <EditTextPreference
+        android:title="Bitru"
+        android:key="bitru_furl"
+        android:defaultValue="http://bitru.org"/>
+    <EditTextPreference
+        android:title="Tpb"
+        android:key="tpb_furl"
+        android:defaultValue="https://pirateproxy.how/"/>
+    <EditTextPreference
+        android:title="NNM"
+        android:key="nnm_furl"
+        android:visibility="gone"
+        android:defaultValue="http://nnmclub.to"/>
+    <EditTextPreference
+        android:title="Fileek"
+        android:visibility="gone"
+        android:key="fileek_furl"
+        android:defaultValue="http://fileek.com"/>
+</PreferenceScreen>

@@ -1,0 +1,23 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/GENERAL">
+        <Preference
+            android:key="pref_static_field_key"
+            android:selectable="false"
+            android:persistent="false"
+            android:title="@string/app_name"
+            android:summary="@string/app_version"/>
+        <Preference
+            android:key="email"
+            android:title="@string/FEEDBACK"
+            android:summary="@string/app_email"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Application support"></PreferenceCategory>
+    <PreferenceCategory android:title="Phone">
+        <Preference
+            android:key="phone"
+            android:title="+91 8897579068" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
